@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AOV Wallpapers HD</string>
+
+    <string name="ad_fullscreen">ca-app-pub-3398251248637833/9511450796</string>
+    <string name="ad_banner">a</string>
+    <string name="AD_UNIT_ID">ca-app-pub-3398251248637833/1075830378</string> 
+    <string name="FEED_URL">http://45.77.15.135/Hoidd/ArenaChibi.html</string>
+    <string name="JsonObject">ArenaChibi</string>
+</resources>
